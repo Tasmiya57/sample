@@ -1,0 +1,60 @@
+2022-05-18 20:28:14,068 [main] INFO urbanLadder - ****Launching browser*****
+2022-05-18 20:28:14,739 [main] INFO urbanLadder - Opening URL
+2022-05-18 20:28:26,168 [main] INFO urbanLadder - clicked on icon
+2022-05-18 20:28:29,730 [main] INFO urbanLadder - clicked on sign up
+2022-05-18 20:28:33,311 [main] INFO urbanLadder - entered email
+2022-05-18 20:28:33,681 [main] INFO urbanLadder - entered password
+2022-05-18 20:28:35,245 [main] INFO urbanLadder - clicked on submit
+2022-05-18 20:28:35,245 [main] INFO urbanLadder - successfully signup
+2022-05-18 20:28:43,597 [main] INFO urbanLadder - ****Launching browser*****
+2022-05-18 20:28:43,619 [main] INFO urbanLadder - Opening URL
+2022-05-18 20:28:47,866 [main] INFO urbanLadder - clicked on icon
+2022-05-18 20:28:48,697 [main] INFO urbanLadder - clicked on login
+2022-05-18 20:28:51,969 [main] INFO urbanLadder - entered email
+2022-05-18 20:28:52,187 [main] INFO urbanLadder - entered password
+2022-05-18 20:28:53,570 [main] INFO urbanLadder - clicked on submit
+2022-05-18 20:28:53,571 [main] INFO urbanLadder - successfully login
+2022-05-18 20:29:00,555 [main] INFO urbanLadder - ****Launching browser*****
+2022-05-18 20:29:00,560 [main] INFO urbanLadder - Opening URL
+2022-05-18 20:29:05,422 [main] INFO urbanLadder - Entered the value for serach
+2022-05-18 20:29:06,990 [main] INFO urbanLadder - clicked on serach icon
+2022-05-18 20:29:15,216 [main] INFO urbanLadder - searched successful
+2022-05-18 20:29:21,823 [main] INFO urbanLadder - ****Launching browser*****
+2022-05-18 20:29:21,826 [main] INFO urbanLadder - Opening URL
+2022-05-18 20:29:27,647 [main] INFO urbanLadder - clicked on giftcards
+2022-05-18 20:29:30,732 [main] INFO urbanLadder - verified the given content
+2022-05-18 20:29:30,732 [main] INFO urbanLadder - Giftcard test completed
+2022-05-18 20:29:37,123 [main] INFO urbanLadder - ****Launching browser*****
+2022-05-18 20:29:37,126 [main] INFO urbanLadder - Opening URL
+2022-05-18 20:29:43,797 [main] INFO urbanLadder - clickwd on stores
+2022-05-18 20:29:45,162 [main] INFO urbanLadder - clicked on view details
+2022-05-18 20:29:45,163 [main] INFO urbanLadder - Urban Ladder Experience Centre details willl be displayed
+2022-05-18 20:29:45,163 [main] INFO urbanLadder - Stores Test passed
+2022-05-18 20:29:50,994 [main] INFO urbanLadder - ****Launching browser*****
+2022-05-18 20:29:50,997 [main] INFO urbanLadder - Opening URL
+2022-05-18 20:29:56,328 [main] INFO urbanLadder - Entered the value for serach
+2022-05-18 20:29:57,999 [main] INFO urbanLadder - clicked on search bar
+2022-05-18 20:29:58,262 [main] INFO urbanLadder - verified customer stories
+2022-05-18 20:30:06,785 [main] INFO urbanLadder - MattressTest passed
+2022-05-18 20:30:12,351 [main] INFO urbanLadder - ****Launching browser*****
+2022-05-18 20:30:12,356 [main] INFO urbanLadder - Opening URL
+2022-05-18 20:30:16,692 [main] INFO urbanLadder - clicked on top deals
+2022-05-18 20:30:21,639 [main] INFO urbanLadder - clicked on sofa beds
+2022-05-18 20:30:28,808 [main] INFO urbanLadder - sofa bed page opened
+2022-05-18 20:30:28,808 [main] INFO urbanLadder - Sofabed Test passed
+2022-05-18 20:30:34,974 [main] INFO urbanLadder - ****Launching browser*****
+2022-05-18 20:30:34,976 [main] INFO urbanLadder - Opening URL
+2022-05-18 20:30:39,821 [main] INFO urbanLadder - clicked on kids room
+2022-05-18 20:30:44,311 [main] INFO urbanLadder - clicked on kids chair
+2022-05-18 20:30:51,491 [main] INFO urbanLadder - Kids chair page opened
+2022-05-18 20:30:51,491 [main] INFO urbanLadder - KidsRoom Test passed
+2022-05-18 20:30:57,393 [main] INFO urbanLadder - ****Launching browser*****
+2022-05-18 20:30:57,428 [main] INFO urbanLadder - Opening URL
+2022-05-18 20:31:02,347 [main] INFO urbanLadder - clicked on about us
+2022-05-18 20:31:05,403 [main] INFO urbanLadder - verified the content
+2022-05-18 20:31:05,403 [main] INFO urbanLadder - Aboutus Test Passed
+2022-05-18 20:31:11,192 [main] INFO urbanLadder - ****Launching browser*****
+2022-05-18 20:31:11,195 [main] INFO urbanLadder - Opening URL
+2022-05-18 20:31:17,168 [main] INFO urbanLadder - clicked on tv unit
+2022-05-18 20:31:23,581 [main] INFO urbanLadder - verifed the content
+2022-05-18 20:31:32,095 [main] INFO urbanLadder - TvUnitTest Passed

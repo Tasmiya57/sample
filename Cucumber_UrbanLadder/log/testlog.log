@@ -1,0 +1,60 @@
+2022-05-18 20:28:14,068 - urbanLadder -INFO - ****Launching browser*****
+2022-05-18 20:28:14,739 - urbanLadder -INFO - Opening URL
+2022-05-18 20:28:26,168 - urbanLadder -INFO - clicked on icon
+2022-05-18 20:28:29,730 - urbanLadder -INFO - clicked on sign up
+2022-05-18 20:28:33,311 - urbanLadder -INFO - entered email
+2022-05-18 20:28:33,681 - urbanLadder -INFO - entered password
+2022-05-18 20:28:35,245 - urbanLadder -INFO - clicked on submit
+2022-05-18 20:28:35,245 - urbanLadder -INFO - successfully signup
+2022-05-18 20:28:43,597 - urbanLadder -INFO - ****Launching browser*****
+2022-05-18 20:28:43,619 - urbanLadder -INFO - Opening URL
+2022-05-18 20:28:47,866 - urbanLadder -INFO - clicked on icon
+2022-05-18 20:28:48,697 - urbanLadder -INFO - clicked on login
+2022-05-18 20:28:51,969 - urbanLadder -INFO - entered email
+2022-05-18 20:28:52,187 - urbanLadder -INFO - entered password
+2022-05-18 20:28:53,570 - urbanLadder -INFO - clicked on submit
+2022-05-18 20:28:53,571 - urbanLadder -INFO - successfully login
+2022-05-18 20:29:00,555 - urbanLadder -INFO - ****Launching browser*****
+2022-05-18 20:29:00,560 - urbanLadder -INFO - Opening URL
+2022-05-18 20:29:05,422 - urbanLadder -INFO - Entered the value for serach
+2022-05-18 20:29:06,990 - urbanLadder -INFO - clicked on serach icon
+2022-05-18 20:29:15,216 - urbanLadder -INFO - searched successful
+2022-05-18 20:29:21,823 - urbanLadder -INFO - ****Launching browser*****
+2022-05-18 20:29:21,826 - urbanLadder -INFO - Opening URL
+2022-05-18 20:29:27,647 - urbanLadder -INFO - clicked on giftcards
+2022-05-18 20:29:30,732 - urbanLadder -INFO - verified the given content
+2022-05-18 20:29:30,732 - urbanLadder -INFO - Giftcard test completed
+2022-05-18 20:29:37,123 - urbanLadder -INFO - ****Launching browser*****
+2022-05-18 20:29:37,126 - urbanLadder -INFO - Opening URL
+2022-05-18 20:29:43,797 - urbanLadder -INFO - clickwd on stores
+2022-05-18 20:29:45,162 - urbanLadder -INFO - clicked on view details
+2022-05-18 20:29:45,163 - urbanLadder -INFO - Urban Ladder Experience Centre details willl be displayed
+2022-05-18 20:29:45,163 - urbanLadder -INFO - Stores Test passed
+2022-05-18 20:29:50,994 - urbanLadder -INFO - ****Launching browser*****
+2022-05-18 20:29:50,997 - urbanLadder -INFO - Opening URL
+2022-05-18 20:29:56,328 - urbanLadder -INFO - Entered the value for serach
+2022-05-18 20:29:57,999 - urbanLadder -INFO - clicked on search bar
+2022-05-18 20:29:58,262 - urbanLadder -INFO - verified customer stories
+2022-05-18 20:30:06,785 - urbanLadder -INFO - MattressTest passed
+2022-05-18 20:30:12,351 - urbanLadder -INFO - ****Launching browser*****
+2022-05-18 20:30:12,356 - urbanLadder -INFO - Opening URL
+2022-05-18 20:30:16,692 - urbanLadder -INFO - clicked on top deals
+2022-05-18 20:30:21,639 - urbanLadder -INFO - clicked on sofa beds
+2022-05-18 20:30:28,808 - urbanLadder -INFO - sofa bed page opened
+2022-05-18 20:30:28,808 - urbanLadder -INFO - Sofabed Test passed
+2022-05-18 20:30:34,974 - urbanLadder -INFO - ****Launching browser*****
+2022-05-18 20:30:34,976 - urbanLadder -INFO - Opening URL
+2022-05-18 20:30:39,821 - urbanLadder -INFO - clicked on kids room
+2022-05-18 20:30:44,311 - urbanLadder -INFO - clicked on kids chair
+2022-05-18 20:30:51,491 - urbanLadder -INFO - Kids chair page opened
+2022-05-18 20:30:51,491 - urbanLadder -INFO - KidsRoom Test passed
+2022-05-18 20:30:57,393 - urbanLadder -INFO - ****Launching browser*****
+2022-05-18 20:30:57,428 - urbanLadder -INFO - Opening URL
+2022-05-18 20:31:02,347 - urbanLadder -INFO - clicked on about us
+2022-05-18 20:31:05,403 - urbanLadder -INFO - verified the content
+2022-05-18 20:31:05,403 - urbanLadder -INFO - Aboutus Test Passed
+2022-05-18 20:31:11,192 - urbanLadder -INFO - ****Launching browser*****
+2022-05-18 20:31:11,195 - urbanLadder -INFO - Opening URL
+2022-05-18 20:31:17,168 - urbanLadder -INFO - clicked on tv unit
+2022-05-18 20:31:23,581 - urbanLadder -INFO - verifed the content
+2022-05-18 20:31:32,095 - urbanLadder -INFO - TvUnitTest Passed

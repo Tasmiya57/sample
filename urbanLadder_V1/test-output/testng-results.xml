@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="urbanLadder" duration-ms="229299" started-at="2022-05-18T14:50:48Z" finished-at="2022-05-18T14:54:37Z">
+    <groups>
+    </groups>
+    <test name="urban ladder test" duration-ms="229299" started-at="2022-05-18T14:50:48Z" finished-at="2022-05-18T14:54:37Z">
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_SofaBedPage07">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_SofaBedPage07@1a84f40f]" name="setup" is-config="true" duration-ms="4951" started-at="2022-05-18T14:52:51Z" finished-at="2022-05-18T14:52:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SofaBedTest()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_SofaBedPage07@1a84f40f]" name="SofaBedTest" duration-ms="11264" started-at="2022-05-18T14:52:56Z" finished-at="2022-05-18T14:53:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SofaBedTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_SofaBedPage07@1a84f40f]" name="tearDown" is-config="true" duration-ms="3881" started-at="2022-05-18T14:53:08Z" finished-at="2022-05-18T14:53:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.urbanLadder.testCases.Tc_urbanLadder_SofaBedPage07 -->
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_DDT">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_DDT@3b2da18f]" name="setup" is-config="true" duration-ms="5651" started-at="2022-05-18T14:54:10Z" finished-at="2022-05-18T14:54:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_DDT@3b2da18f]" name="loginDDT" duration-ms="15718" started-at="2022-05-18T14:54:18Z" data-provider="LoginData" finished-at="2022-05-18T14:54:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tasmiya5757@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AruvYhu@12345678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_DDT@3b2da18f]" name="tearDown" is-config="true" duration-ms="3818" started-at="2022-05-18T14:54:34Z" finished-at="2022-05-18T14:54:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.urbanLadder.testCases.Tc_urbanLadder_DDT -->
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_Kids08">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_Kids08@23282c25]" name="setup" is-config="true" duration-ms="5745" started-at="2022-05-18T14:53:11Z" finished-at="2022-05-18T14:53:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="kidsRoomTest()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_Kids08@23282c25]" name="kidsRoomTest" duration-ms="12494" started-at="2022-05-18T14:53:17Z" finished-at="2022-05-18T14:53:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kidsRoomTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_Kids08@23282c25]" name="tearDown" is-config="true" duration-ms="3863" started-at="2022-05-18T14:53:30Z" finished-at="2022-05-18T14:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.urbanLadder.testCases.Tc_urbanLadder_Kids08 -->
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_Mattress06">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_Mattress06@4b168fa9]" name="setup" is-config="true" duration-ms="7800" started-at="2022-05-18T14:52:37Z" finished-at="2022-05-18T14:52:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="MattressTest()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_Mattress06@4b168fa9]" name="MattressTest" duration-ms="2462" started-at="2022-05-18T14:52:45Z" finished-at="2022-05-18T14:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MattressTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_Mattress06@4b168fa9]" name="tearDown" is-config="true" duration-ms="3831" started-at="2022-05-18T14:52:47Z" finished-at="2022-05-18T14:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.urbanLadder.testCases.Tc_urbanLadder_Mattress06 -->
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_Tvunit10">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_Tvunit10@6b419da]" name="setup" is-config="true" duration-ms="6234" started-at="2022-05-18T14:53:51Z" finished-at="2022-05-18T14:53:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TVunitTest()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_Tvunit10@6b419da]" name="TVunitTest" duration-ms="8976" started-at="2022-05-18T14:53:57Z" finished-at="2022-05-18T14:54:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TVunitTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_Tvunit10@6b419da]" name="tearDown" is-config="true" duration-ms="4332" started-at="2022-05-18T14:54:06Z" finished-at="2022-05-18T14:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.urbanLadder.testCases.Tc_urbanLadder_Tvunit10 -->
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_giftcard04">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_giftcard04@3ee0fea4]" name="setup" is-config="true" duration-ms="7701" started-at="2022-05-18T14:52:00Z" finished-at="2022-05-18T14:52:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateGiftcard()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_giftcard04@3ee0fea4]" name="validateGiftcard" duration-ms="9871" started-at="2022-05-18T14:52:07Z" finished-at="2022-05-18T14:52:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftcard -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_giftcard04@3ee0fea4]" name="tearDown" is-config="true" duration-ms="5142" started-at="2022-05-18T14:52:17Z" finished-at="2022-05-18T14:52:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.urbanLadder.testCases.Tc_urbanLadder_giftcard04 -->
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_Stores05">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_Stores05@48524010]" name="setup" is-config="true" duration-ms="5834" started-at="2022-05-18T14:52:22Z" finished-at="2022-05-18T14:52:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="storesTest()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_Stores05@48524010]" name="storesTest" duration-ms="5240" started-at="2022-05-18T14:52:28Z" finished-at="2022-05-18T14:52:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storesTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_Stores05@48524010]" name="tearDown" is-config="true" duration-ms="3836" started-at="2022-05-18T14:52:33Z" finished-at="2022-05-18T14:52:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.urbanLadder.testCases.Tc_urbanLadder_Stores05 -->
+      <class name="com.urbanLadder.testCases.Tc_urbanladder_login02">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.urbanLadder.testCases.Tc_urbanladder_login02@53ca01a2]" name="setup" is-config="true" duration-ms="8750" started-at="2022-05-18T14:51:15Z" finished-at="2022-05-18T14:51:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanladder_login02@53ca01a2]" name="LoginTest" duration-ms="9429" started-at="2022-05-18T14:51:24Z" finished-at="2022-05-18T14:51:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanladder_login02@53ca01a2]" name="tearDown" is-config="true" duration-ms="3847" started-at="2022-05-18T14:51:34Z" finished-at="2022-05-18T14:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.urbanLadder.testCases.Tc_urbanladder_login02 -->
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_signup01">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_signup01@14ec4505]" name="setup" is-config="true" duration-ms="9189" started-at="2022-05-18T14:50:48Z" finished-at="2022-05-18T14:50:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SignupTest()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_signup01@14ec4505]" name="SignupTest" duration-ms="13383" started-at="2022-05-18T14:50:58Z" finished-at="2022-05-18T14:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignupTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_signup01@14ec4505]" name="tearDown" is-config="true" duration-ms="4244" started-at="2022-05-18T14:51:11Z" finished-at="2022-05-18T14:51:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.urbanLadder.testCases.Tc_urbanLadder_signup01 -->
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_AboutPage09">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_AboutPage09@7920ba90]" name="setup" is-config="true" duration-ms="7179" started-at="2022-05-18T14:53:34Z" finished-at="2022-05-18T14:53:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="aboutTest()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_AboutPage09@7920ba90]" name="aboutTest" duration-ms="6414" started-at="2022-05-18T14:53:41Z" finished-at="2022-05-18T14:53:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_AboutPage09@7920ba90]" name="tearDown" is-config="true" duration-ms="3832" started-at="2022-05-18T14:53:47Z" finished-at="2022-05-18T14:53:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.urbanLadder.testCases.Tc_urbanLadder_AboutPage09 -->
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_searchtable03">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_searchtable03@358c99f5]" name="setup" is-config="true" duration-ms="6818" started-at="2022-05-18T14:51:37Z" finished-at="2022-05-18T14:51:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchTable()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_searchtable03@358c99f5]" name="searchTable" duration-ms="11547" started-at="2022-05-18T14:51:44Z" finished-at="2022-05-18T14:51:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTable -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.urbanLadder.testCases.Tc_urbanLadder_searchtable03@358c99f5]" name="tearDown" is-config="true" duration-ms="3857" started-at="2022-05-18T14:51:56Z" finished-at="2022-05-18T14:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.urbanLadder.testCases.Tc_urbanLadder_searchtable03 -->
+    </test> <!-- urban ladder test -->
+  </suite> <!-- urbanLadder -->
+</testng-results>

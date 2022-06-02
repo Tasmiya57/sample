@@ -1,0 +1,52 @@
+2022-05-18 20:20:57,776 - urbanLadder -INFO - url is open
+2022-05-18 20:20:59,353 - urbanLadder -INFO - clicked on icon...
+2022-05-18 20:20:59,570 - urbanLadder -INFO - signup page opened...
+2022-05-18 20:21:06,894 - urbanLadder -INFO - Entered username
+2022-05-18 20:21:07,114 - urbanLadder -INFO - Entered password
+2022-05-18 20:21:09,122 - urbanLadder -INFO - Successfully signup
+2022-05-18 20:21:24,355 - urbanLadder -INFO - url is open
+2022-05-18 20:21:24,788 - urbanLadder -INFO - clicked on icon...
+2022-05-18 20:21:27,378 - urbanLadder -INFO - Login page opened...
+2022-05-18 20:21:30,647 - urbanLadder -INFO - Entered username
+2022-05-18 20:21:30,978 - urbanLadder -INFO - Entered password
+2022-05-18 20:21:32,549 - urbanLadder -INFO - Login succefully
+2022-05-18 20:21:44,269 - urbanLadder -INFO - url is open
+2022-05-18 20:21:44,853 - urbanLadder -INFO - clicked on icon...
+2022-05-18 20:21:45,680 - urbanLadder -INFO - Login page opened...
+2022-05-18 20:21:48,960 - urbanLadder -INFO - Entered username
+2022-05-18 20:21:49,168 - urbanLadder -INFO - Entered password
+2022-05-18 20:21:50,744 - urbanLadder -INFO - Login succefully
+2022-05-18 20:21:55,684 - urbanLadder -INFO - Search study table successful
+2022-05-18 20:22:07,621 - urbanLadder -INFO - url is open
+2022-05-18 20:22:10,462 - urbanLadder -INFO - Gift cards page opened
+2022-05-18 20:22:10,540 - urbanLadder -INFO - verified the given content
+2022-05-18 20:22:28,229 - urbanLadder -INFO - url is open
+2022-05-18 20:22:31,716 - urbanLadder -INFO - clicked on stores
+2022-05-18 20:22:33,314 - urbanLadder -INFO - Clicked successfully on view details
+2022-05-18 20:22:33,871 - urbanLadder -INFO - StorePage test passed
+2022-05-18 20:22:45,275 - urbanLadder -INFO - url is open
+2022-05-18 20:22:45,833 - urbanLadder -INFO - search for mattresses
+2022-05-18 20:22:47,264 - urbanLadder -INFO - clicked on serach icon
+2022-05-18 20:22:47,477 - urbanLadder -INFO - verified customer stories
+2022-05-18 20:22:47,973 - urbanLadder -INFO - MattressTest passed
+2022-05-18 20:22:56,572 - urbanLadder -INFO - url is open
+2022-05-18 20:23:00,008 - urbanLadder -INFO - clicked on sales
+2022-05-18 20:23:04,290 - urbanLadder -INFO - clicked on sofa Beds
+2022-05-18 20:23:08,022 - urbanLadder -INFO - SofaBedTest Passed
+2022-05-18 20:23:17,441 - urbanLadder -INFO - url is open
+2022-05-18 20:23:20,871 - urbanLadder -INFO - clicked on kids room
+2022-05-18 20:23:26,366 - urbanLadder -INFO - clicked on kids chair
+2022-05-18 20:23:30,156 - urbanLadder -INFO - kidsRoomTest Passed
+2022-05-18 20:23:41,000 - urbanLadder -INFO - url is open
+2022-05-18 20:23:44,310 - urbanLadder -INFO - clicked on about us
+2022-05-18 20:23:47,386 - urbanLadder -INFO - verified the content
+2022-05-18 20:23:47,613 - urbanLadder -INFO - AboutTest Passed
+2022-05-18 20:23:57,484 - urbanLadder -INFO - url is open
+2022-05-18 20:23:59,749 - urbanLadder -INFO - clicked on tvUnit
+2022-05-18 20:24:02,869 - urbanLadder -INFO - verifed the content
+2022-05-18 20:24:06,659 - urbanLadder -INFO - TvUnitTest Passed
+2022-05-18 20:24:16,426 - urbanLadder -INFO - url is open
+2022-05-18 20:24:26,296 - urbanLadder -INFO - username provided
+2022-05-18 20:24:26,545 - urbanLadder -INFO - password provided
+2022-05-18 20:24:32,086 - urbanLadder -INFO - clicked on submit
+2022-05-18 20:24:34,100 - urbanLadder -INFO - DDT LoginTest passed

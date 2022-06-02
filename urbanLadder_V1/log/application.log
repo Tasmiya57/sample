@@ -1,0 +1,52 @@
+2022-05-18 20:20:57,776 [main] INFO urbanLadder - url is open
+2022-05-18 20:20:59,353 [main] INFO urbanLadder - clicked on icon...
+2022-05-18 20:20:59,570 [main] INFO urbanLadder - signup page opened...
+2022-05-18 20:21:06,894 [main] INFO urbanLadder - Entered username
+2022-05-18 20:21:07,114 [main] INFO urbanLadder - Entered password
+2022-05-18 20:21:09,122 [main] INFO urbanLadder - Successfully signup
+2022-05-18 20:21:24,355 [main] INFO urbanLadder - url is open
+2022-05-18 20:21:24,788 [main] INFO urbanLadder - clicked on icon...
+2022-05-18 20:21:27,378 [main] INFO urbanLadder - Login page opened...
+2022-05-18 20:21:30,647 [main] INFO urbanLadder - Entered username
+2022-05-18 20:21:30,978 [main] INFO urbanLadder - Entered password
+2022-05-18 20:21:32,549 [main] INFO urbanLadder - Login succefully
+2022-05-18 20:21:44,269 [main] INFO urbanLadder - url is open
+2022-05-18 20:21:44,853 [main] INFO urbanLadder - clicked on icon...
+2022-05-18 20:21:45,680 [main] INFO urbanLadder - Login page opened...
+2022-05-18 20:21:48,960 [main] INFO urbanLadder - Entered username
+2022-05-18 20:21:49,168 [main] INFO urbanLadder - Entered password
+2022-05-18 20:21:50,744 [main] INFO urbanLadder - Login succefully
+2022-05-18 20:21:55,684 [main] INFO urbanLadder - Search study table successful
+2022-05-18 20:22:07,621 [main] INFO urbanLadder - url is open
+2022-05-18 20:22:10,462 [main] INFO urbanLadder - Gift cards page opened
+2022-05-18 20:22:10,540 [main] INFO urbanLadder - verified the given content
+2022-05-18 20:22:28,229 [main] INFO urbanLadder - url is open
+2022-05-18 20:22:31,716 [main] INFO urbanLadder - clicked on stores
+2022-05-18 20:22:33,314 [main] INFO urbanLadder - Clicked successfully on view details
+2022-05-18 20:22:33,871 [main] INFO urbanLadder - StorePage test passed
+2022-05-18 20:22:45,275 [main] INFO urbanLadder - url is open
+2022-05-18 20:22:45,833 [main] INFO urbanLadder - search for mattresses
+2022-05-18 20:22:47,264 [main] INFO urbanLadder - clicked on serach icon
+2022-05-18 20:22:47,477 [main] INFO urbanLadder - verified customer stories
+2022-05-18 20:22:47,973 [main] INFO urbanLadder - MattressTest passed
+2022-05-18 20:22:56,572 [main] INFO urbanLadder - url is open
+2022-05-18 20:23:00,008 [main] INFO urbanLadder - clicked on sales
+2022-05-18 20:23:04,290 [main] INFO urbanLadder - clicked on sofa Beds
+2022-05-18 20:23:08,022 [main] INFO urbanLadder - SofaBedTest Passed
+2022-05-18 20:23:17,441 [main] INFO urbanLadder - url is open
+2022-05-18 20:23:20,871 [main] INFO urbanLadder - clicked on kids room
+2022-05-18 20:23:26,366 [main] INFO urbanLadder - clicked on kids chair
+2022-05-18 20:23:30,156 [main] INFO urbanLadder - kidsRoomTest Passed
+2022-05-18 20:23:41,000 [main] INFO urbanLadder - url is open
+2022-05-18 20:23:44,310 [main] INFO urbanLadder - clicked on about us
+2022-05-18 20:23:47,386 [main] INFO urbanLadder - verified the content
+2022-05-18 20:23:47,613 [main] INFO urbanLadder - AboutTest Passed
+2022-05-18 20:23:57,484 [main] INFO urbanLadder - url is open
+2022-05-18 20:23:59,749 [main] INFO urbanLadder - clicked on tvUnit
+2022-05-18 20:24:02,869 [main] INFO urbanLadder - verifed the content
+2022-05-18 20:24:06,659 [main] INFO urbanLadder - TvUnitTest Passed
+2022-05-18 20:24:16,426 [main] INFO urbanLadder - url is open
+2022-05-18 20:24:26,296 [main] INFO urbanLadder - username provided
+2022-05-18 20:24:26,545 [main] INFO urbanLadder - password provided
+2022-05-18 20:24:32,086 [main] INFO urbanLadder - clicked on submit
+2022-05-18 20:24:34,100 [main] INFO urbanLadder - DDT LoginTest passed

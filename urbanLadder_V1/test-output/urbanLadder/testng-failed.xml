@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [urbanLadder]">
+  <listeners>
+    <listener class-name="com.urbanLadder.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="urban ladder test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_signup01">
+        <methods>
+          <include name="SignupTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.urbanLadder.testCases.Tc_urbanLadder_signup01 -->
+    </classes>
+  </test> <!-- urban ladder test(failed) -->
+</suite> <!-- Failed suite [urbanLadder] -->

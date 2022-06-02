@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="urbanLadder">
+<listeners>
+  <listener class-name="com.urbanLadder.utilities.Reporting"/>
+</listeners>
+
+  <test thread-count="5" name="urban ladder test">
+  <parameter name="browser" value="chrome" />
+    <classes>
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_signup01"/>
+      <class name="com.urbanLadder.testCases.Tc_urbanladder_login02"/> 
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_searchtable03"/> 
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_giftcard04"/> 
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_Stores05"/> 
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_Mattress06"/> 
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_SofaBedPage07"/> 
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_Kids08"/> 
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_AboutPage09"/> 
+      <class name="com.urbanLadder.testCases.Tc_urbanLadder_Tvunit10"/> 
+       <class name="com.urbanLadder.testCases.Tc_urbanLadder_DDT"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
